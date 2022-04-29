@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clark-2468
-- 👀 I’m interested in handwares
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 3195478226@qq.com
 
