@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clark-2468
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me 3195478226@qq.com
+- 👀 I’m interested in biomedical engineering
+- 🌱 I’m currently 
+- 📫 How to reach me 
 
 <!---
 clark-2468/clark-2468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
